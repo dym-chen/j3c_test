@@ -23,9 +23,6 @@ function App() {
         duration: 1,
         ease: "easeOut",
       },
-      exit: { 
-        width: 0, 
-      },
     });
   };
 
